@@ -1,3 +1,6 @@
+# IT-Service-Management-ITSM-Using-Jira-service-Manager
+
+
 - Created a self directed IT service management (ITSM) project to better understand Jira service management fundamentals
 - Queued and triaged support tickets throughout the full ticket life cycle from open, in-progress and resolved/closed while adding descriptions, solutions and notes to each ticket
 - Made distinctions based on priority and severity, such as low and high, as well as the type of ticket such as incident, service request and task, while linking problem tickets when possible and maintaining SLA’s
