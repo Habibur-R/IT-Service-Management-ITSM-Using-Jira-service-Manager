@@ -16,7 +16,7 @@ Low Priority Ticket:
 Medium Priority Ticket:
 <img width="1920" height="966" alt="Screenshot From 2026-09-11 20-40-10" src="https://github.com/user-attachments/assets/504564e3-5202-45d7-ac48-603cd54a9f94" />
 
-High Priority Ticket:
+Highest Priority Ticket:
 <img width="1920" height="966" alt="Screenshot From 2026-09-11 20-40-42" src="https://github.com/user-attachments/assets/657991d9-b4f2-45ca-8809-93b5365dba39" />
 
 Linked Problem Ticket:
